@@ -4,7 +4,7 @@
 %%%%%%%%%%%%%%%%%
 
 Date: 12.6.2020
-Author: Jean-Pascal Pfister (jpfister@ini.uzh.ch)
+Author: Jean-Pascal Pfister (jeanpascal.pfister@pyl.unibe.ch)
 
 This matlab code generates all the figures for the paper 
 Pfister, J. P., & Ghosh, A.  A generalized priority-based model for smartphone screen touches
